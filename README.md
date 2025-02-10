@@ -1,5 +1,8 @@
 I'm a result driven Software Engineer passionate about building scalable and efficient applications. With experience in Node.js, Express, MongoDB, MySQL, and cloud technologies, I specialize in crafting robust backend systems that power seamless digital experiences.<br><br>🚀 What I do:<br><br>Develop high-performance backend architectures for web and mobile applications<br><br>Work with relational & NoSQL databases to ensure data integrity and efficiency<br><br>Integrate third-party APIs & cloud services for enhanced functionality<br><br>Optimize code structure, security, and performance for scalability<br><br>🌱 Currently Exploring: Next.js, Cloud Computing, and System Design<br><br>💡 Fun Fact: I love solving complex problems and turning ideas into reality through code!
 
+you can reach out via linkdin or my personal Email
+Email: adhamtawfik90@gmail.com
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adhamtawfik/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adhamtawfik90@gmail.com) 
